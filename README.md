@@ -1,7 +1,7 @@
 # My Website Submission
 
 ## Project Description
-This project is a personal portfolio website that showcases my skills, projects, and experience as a web developer. The website is responsive and designed with modern web technologies such as HTML5, CSS3, and JavaScript. It also features an interactive project showcase section with a lightbox gallery.
+This project is a portfolio website that showcases my skills and experience as a web developer. The website is responsive and designed with modern web technologies such as HTML, CSS, and JavaScript. I approached this project as if I was tasked to develop a portfolio website for an artist to showcase their work and communicate with others.
 
 ## Technologies Used
 - HTML
